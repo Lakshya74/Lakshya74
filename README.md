@@ -10,6 +10,73 @@ Hi there! 👋 I'm Lakshya Kapur, a passionate software developer with experienc
 - **Databases:** SQL
 - **Technologies:** [Add any frameworks, tools, or technologies you are familiar with]
 
+## Tech Stack
+
+### C++
+- **Libraries/Frameworks:**
+  - 🛠️ Boost
+  - 🖼️ Qt
+  - 📚 STL (Standard Template Library)
+- **Tools:**
+  - 🛠️ GCC
+  - 🛠️ Clang
+  - ⚙️ CMake
+  - 💻 Visual Studio
+- **IDEs:**
+  - 🛠️ CLion
+  - 💻 Visual Studio
+  - 🛠️ Code::Blocks
+
+### Java
+- **Libraries/Frameworks:**
+  - 🌱 Spring
+  - 🍃 Hibernate
+  - 🖥️ JavaFX
+  - 📦 Apache Maven
+  - 🌐 Jakarta EE
+- **Tools:**
+  - ☕ JDK
+  - 💻 IntelliJ IDEA
+  - 💻 Eclipse
+  - 💻 NetBeans
+- **Build Tools:**
+  - 🏗️ Maven
+  - 🏗️ Gradle
+
+### Python
+- **Libraries/Frameworks:**
+  - 🌐 Django
+  - 🌐 Flask
+  - 🤖 TensorFlow
+  - 🤖 Keras
+  - 📊 Pandas
+  - 📊 NumPy
+  - 📈 Matplotlib
+- **Tools:**
+  - 🐍 PyCharm
+  - 📒 Jupyter Notebook
+  - 📝 VS Code
+  - 🐍 Anaconda
+- **Package Managers:**
+  - 📦 pip
+  - 📦 conda
+
+### SQL
+- **Database Systems:**
+  - 🗄️ MySQL
+  - 🗄️ PostgreSQL
+  - 🗄️ SQLite
+  - 🗄️ Oracle
+  - 🗄️ Microsoft SQL Server
+- **ORMs:**
+  - 🔄 Hibernate
+  - 🔄 SQLAlchemy
+- **Tools:**
+  - 🛠️ pgAdmin
+  - 🛠️ MySQL Workbench
+  - 🛠️ DBeaver
+  - 🛠️ SQL Server Management Studio
+
 ## Projects
 
 ### [Project Name 1](link-to-your-project)
@@ -31,4 +98,3 @@ Feel free to reach out to me for collaboration, project discussions, or just to 
 ---
 
 *Lakshya Kapur*
-
