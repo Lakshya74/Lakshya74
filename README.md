@@ -77,20 +77,7 @@ Hi there! 👋 I'm Lakshya Kapur, a passionate software developer with experienc
   - 🛠️ DBeaver
   - 🛠️ SQL Server Management Studio
 
-## Projects
-
-### [Project Name 1](link-to-your-project)
-*Description of the project, technologies used, and your role.*
-
-### [Project Name 2](link-to-your-project)
-*Description of the project, technologies used, and your role.*
-
-## Connect with Me
-
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- [Personal Website](your-website-link)
-
+  
 ## Let's Connect!
 
 Feel free to reach out to me for collaboration, project discussions, or just to say hello. Looking forward to connecting with you!
