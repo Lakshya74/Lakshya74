@@ -6,26 +6,26 @@ Hi there! 👋 I'm Lakshya Kapur, a passionate software developer with experienc
 
 ## Skills
 
-- **Languages:** C++, Java, Python
+- **Languages:** Java, Python
 - **Databases:** SQL
-- **Technologies:** [Add any frameworks, tools, or technologies you are familiar with]
+- **Technologies:** Pipedream, Gumloop
 
 ## Tech Stack
 
-### C++
-- **Libraries/Frameworks:**
-  - 🛠️ Boost
-  - 🖼️ Qt
-  - 📚 STL (Standard Template Library)
-- **Tools:**
-  - 🛠️ GCC
-  - 🛠️ Clang
-  - ⚙️ CMake
-  - 💻 Visual Studio
-- **IDEs:**
-  - 🛠️ CLion
-  - 💻 Visual Studio
-  - 🛠️ Code::Blocks
+### Automation Tools  
+- **Platforms:**  
+  - 🔗 Pipedream  
+  - 🔗 Gumloop  
+
+- **Use Cases:**  
+  - 🔁 Automated Reddit–Slack alerts based on keywords  
+  - 🔁 Connected multiple tools using no-code workflows  
+  - 🔁 Streamlined marketing tasks without writing code  
+
+- **Tools:**  
+  - 🛠️ Pipedream Visual Workflow Builder  
+  - 🛠️ Gumloop No-Code Automation Interface  
+  - 🛠️ Slack (for receiving automated messages)
 
 ### Java
 - **Libraries/Frameworks:**
