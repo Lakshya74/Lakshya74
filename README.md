@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hi there! 👋 I'm Lakshya Kapur, a passionate software developer with experience in designing and developing applications. I specialize in C++, Java, Python, and SQL, and I'm always eager to take on new challenges and expand my knowledge in the field of computer science.
+Hi there! 👋 I'm Lakshya Kapur, passionate about digital marketing and marketing automation. I enjoy exploring tools and workflows that improve performance and productivity. I also have experience working with Python and SQL to support data-driven marketing initiatives.
+
 
 ## Skills
 
@@ -26,22 +27,6 @@ Hi there! 👋 I'm Lakshya Kapur, a passionate software developer with experienc
   - 🛠️ Pipedream Visual Workflow Builder  
   - 🛠️ Gumloop No-Code Automation Interface  
   - 🛠️ Slack (for receiving automated messages)
-
-### Java
-- **Libraries/Frameworks:**
-  - 🌱 Spring
-  - 🍃 Hibernate
-  - 🖥️ JavaFX
-  - 📦 Apache Maven
-  - 🌐 Jakarta EE
-- **Tools:**
-  - ☕ JDK
-  - 💻 IntelliJ IDEA
-  - 💻 Eclipse
-  - 💻 NetBeans
-- **Build Tools:**
-  - 🏗️ Maven
-  - 🏗️ Gradle
 
 ### Python
 - **Libraries/Frameworks:**
